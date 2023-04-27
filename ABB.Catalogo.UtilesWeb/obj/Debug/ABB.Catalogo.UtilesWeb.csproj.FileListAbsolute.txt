@@ -1,0 +1,6 @@
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.UtilesWeb\bin\Debug\ABB.Catalogo.UtilesWeb.dll
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.UtilesWeb\bin\Debug\ABB.Catalogo.UtilesWeb.pdb
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.UtilesWeb\obj\Debug\ABB.Catalogo.UtilesWeb.csproj.AssemblyReference.cache
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.UtilesWeb\obj\Debug\ABB.Catalogo.UtilesWeb.csproj.CoreCompileInputs.cache
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.UtilesWeb\obj\Debug\ABB.Catalogo.UtilesWeb.dll
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.UtilesWeb\obj\Debug\ABB.Catalogo.UtilesWeb.pdb

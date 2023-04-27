@@ -1,0 +1,20 @@
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\bin\Debug\ABB.Catalogo.Entidades.dll
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\bin\Debug\ABB.Catalogo.Entidades.pdb
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\obj\Debug\ABB.Catalogo.Entidades.csproj.AssemblyReference.cache
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\obj\Debug\ABB.Catalogo.Entidades.csproj.CoreCompileInputs.cache
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\obj\Debug\ABB.Catalogo.Entidades.dll
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\obj\Debug\ABB.Catalogo.Entidades.pdb
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\bin\Debug\log4net.dll
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\bin\Debug\System.Web.Mvc.dll
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\bin\Debug\System.Web.WebPages.dll
+D:\Uni\7mo Ciclo U\Desarrollo de Sistemas Web\Labos\Lab 01\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\obj\Debug\ABB.Catalogo.Entidades.csproj.CopyComplete
+C:\Users\jvall\Desktop\Abb Catalogo\APIMinimarketCarlitos\ABB.Catalogo.Entidades\bin\Debug\ABB.Catalogo.Entidades.dll
+C:\Users\jvall\Desktop\Abb Catalogo\APIMinimarketCarlitos\ABB.Catalogo.Entidades\bin\Debug\ABB.Catalogo.Entidades.pdb
+C:\Users\jvall\Desktop\Abb Catalogo\APIMinimarketCarlitos\ABB.Catalogo.Entidades\bin\Debug\log4net.dll
+C:\Users\jvall\Desktop\Abb Catalogo\APIMinimarketCarlitos\ABB.Catalogo.Entidades\bin\Debug\System.Web.Mvc.dll
+C:\Users\jvall\Desktop\Abb Catalogo\APIMinimarketCarlitos\ABB.Catalogo.Entidades\bin\Debug\System.Web.WebPages.dll
+C:\Users\jvall\Desktop\Abb Catalogo\APIMinimarketCarlitos\ABB.Catalogo.Entidades\obj\Debug\ABB.Catalogo.Entidades.csproj.AssemblyReference.cache
+C:\Users\jvall\Desktop\Abb Catalogo\APIMinimarketCarlitos\ABB.Catalogo.Entidades\obj\Debug\ABB.Catalogo.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jvall\Desktop\Abb Catalogo\APIMinimarketCarlitos\ABB.Catalogo.Entidades\obj\Debug\ABB.Catalogo.Entidades.csproj.CopyComplete
+C:\Users\jvall\Desktop\Abb Catalogo\APIMinimarketCarlitos\ABB.Catalogo.Entidades\obj\Debug\ABB.Catalogo.Entidades.dll
+C:\Users\jvall\Desktop\Abb Catalogo\APIMinimarketCarlitos\ABB.Catalogo.Entidades\obj\Debug\ABB.Catalogo.Entidades.pdb
